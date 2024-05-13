@@ -1,1 +1,2 @@
-this is the addition in stage 2 file
+this is the addition in stage 2 file and appending
+
